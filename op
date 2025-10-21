@@ -1,0 +1,9 @@
+{
+  "service":"Limpeza Doméstica",
+  "date":"2025-10-22",
+  "time":"10:00",
+  "duration":120,
+  "name":"João Silva",
+  "phone":"+351912345678",
+  "email":"joao@example.com"
+}
