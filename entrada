@@ -1,0 +1,7 @@
+GOOGLE_SERVICE_ACCOUNT_JSON='{"type":"service_account", "project_id":"...", "private_key":"-----BEGIN PRIVATE KEY-----\n...\n-----END PRIVATE KEY-----\n", "client_email":"..."}'
+GCAL_ID='id_do_calendario@group.calendar.google.com'   # ou 'primary' se aplicável
+TWILIO_ACCOUNT_SID='ACxxxx'
+TWILIO_AUTH_TOKEN='xxxx'
+TWILIO_WHATSAPP_FROM='whatsapp:+14155238886'   # sandbox example
+FIREBASE_SERVICE_ACCOUNT='{"type":"..."}'      # opcional: JSON string do service account do Firebase
+DEFAULT_TZ='Europe/Lisbon'
