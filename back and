@@ -1,0 +1,5 @@
+azclean-backend/
+├─ package.json
+├─ server.js
+├─ service-account-key.json   <-- DO NOT COMMIT
+├─ .env                       <-- DO NOT COMMIT
