@@ -1,0 +1,17 @@
+{
+  "name": "azclean-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.1",
+    "googleapis": "^121.0.0",
+    "twilio": "^4.0.0",
+    "firebase-admin": "^11.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0"
+  }
+}
